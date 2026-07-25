@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Quiz Wɛ",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "QuizWɛ",
+  "start_url": "/",
+  "theme_color": "#4caf50",
+  "description": "Quiz Guéré pour apprendre le vocabulaire Wɛ avec des audios.",
+  "id": "com.mkereagan.quizwe"
+}
